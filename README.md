@@ -1,11 +1,5 @@
 <div align="center">
-
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Hemen dene</h2>
-
-  <p>Hemen dene.</p>
-
-  
-
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hemen+dene;Hemen+dene." alt="Hemen dene" />
+  </a>
 </div>
