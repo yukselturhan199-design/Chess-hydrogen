@@ -1,0 +1,6 @@
+{
+  "name": "Hidrojen Satranç",
+  "description": "Gemini 4 Hydrogen yapay zeka motoruyla güçlendirilmiş, tam turnuva kurallı stratejik satranç oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
